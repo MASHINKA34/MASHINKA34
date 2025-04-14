@@ -1,7 +1,7 @@
 <a href="https://github.com/MASHINKA34" target="_blank">
     <div align="center">
         <img
-            src="https://github-readme-stats.vercel.app/api?username=MASHINKA34&theme=noctis_minimus&hide_title=true&count_private=true&include_all_commits=true&show_icons=true"
+            src="https://github-readme-stats.vercel.app/api?username=MASHINKA34&theme=noctis_minimus&hide_title=true&count_private=true"
             alt="GitHub stats"
             height="250px"
         >
