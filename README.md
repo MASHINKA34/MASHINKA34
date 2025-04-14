@@ -13,6 +13,6 @@
         <img
             src="https://media1.tenor.com/m/QA_IqSKoWTcAAAAd/the-rock.gif"
             alt="Skala"
-            height="120px"
+            height="140px"
     </div>
 </a>
