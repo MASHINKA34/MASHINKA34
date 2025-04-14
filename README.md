@@ -10,5 +10,9 @@
             alt="Top Langs"
             height="140px"
         >
+        <img
+            src="https://media1.tenor.com/m/QA_IqSKoWTcAAAAd/the-rock.gif"
+            alt="Skala"
+            height="120px"
     </div>
 </a>
