@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Java+Dev+в+процессе+становления+легендой;Работает+на+кофе+и+Stack+Overflow;NullPointerException+Survivor+since+2023;It+works+on+my+machine!)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-мой_смысл_жизни-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Coffee](https://img.shields.io/badge/Кофе-CRITICAL_LEVEL-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-зависимость-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Bugs](https://img.shields.io/badge/Баги_в_коде-its_a_feature-red?style=for-the-badge&logo=bugsnag)
 
@@ -24,7 +23,7 @@
 
 ---
 
-## Статистика (не смотри на коммиты в 3 ночи)
+## Статистика 
 
 <div align="center">
 
