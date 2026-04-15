@@ -22,7 +22,6 @@
 ---
 
 ## Мой талисман
-
 <div align="center">
 
 <img src="https://www.nicepng.com/png/detail/311-3118049_image-gallery-of-java-logo-transparent-duke-java.png" height="150px">
