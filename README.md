@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="[https://www.nicepng.com/png/detail/311-3118049_image-gallery-of-java-logo-transparent-duke-java.png](https://chatgpt.com/s/m_69dff1fe82dc8191b14b9172f47edd39)" height="150px">
+<img src="https://i.imgur.com/qxKoyJl.png" height="250px">
 
 *Это Java-Гном он питается оперативкой*
 
