@@ -31,24 +31,4 @@
 
 </div>
 
----
 
-## Оценка кода экспертами
-
-<div align="center">
-
-<img src="https://media1.tenor.com/m/QA_IqSKoWTcAAAAd/the-rock.gif" height="120px">
-
-*The Rock смотрит на мой код и молчит. Это уже победа.*
-
-</div>
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=MASHINKA34&color=58A6FF&style=flat-square&label=Смотрели+на+страничку)
-
-*Спасибо что дочитал до конца — ты настоящий герой*
-
-</div>
